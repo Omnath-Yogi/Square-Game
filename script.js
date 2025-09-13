@@ -8,6 +8,9 @@ s1.addEventListener("mouseleave", function () {
   s1.innerHTML = ` <h1>1</h1>`;
 });
 
+//i am done
+
+
 let s2 = document.getElementById("sq2");
 let clr = "red";
 s2.addEventListener("mouseenter", function () {
